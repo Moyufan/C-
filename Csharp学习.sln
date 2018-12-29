@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口", "接口\接口.csproj", "{C2859588-02D7-46CB-A403-A21A6451684E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "显示实现接口", "显示实现接口\显示实现接口.csproj", "{83353FF7-29D9-48F1-BD2D-B3A2CC045C54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C2859588-02D7-46CB-A403-A21A6451684E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2859588-02D7-46CB-A403-A21A6451684E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2859588-02D7-46CB-A403-A21A6451684E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83353FF7-29D9-48F1-BD2D-B3A2CC045C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83353FF7-29D9-48F1-BD2D-B3A2CC045C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83353FF7-29D9-48F1-BD2D-B3A2CC045C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83353FF7-29D9-48F1-BD2D-B3A2CC045C54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
