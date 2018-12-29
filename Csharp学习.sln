@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口", "接口\接口.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "显示实现接口", "显示实现接口\显示实现接口.csproj", "{83353FF7-29D9-48F1-BD2D-B3A2CC045C54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "值传递和引用传递", "值传递和引用传递\值传递和引用传递.csproj", "{A0F9738A-B22A-4E8B-B137-AA384303680D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{83353FF7-29D9-48F1-BD2D-B3A2CC045C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83353FF7-29D9-48F1-BD2D-B3A2CC045C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83353FF7-29D9-48F1-BD2D-B3A2CC045C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F9738A-B22A-4E8B-B137-AA384303680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F9738A-B22A-4E8B-B137-AA384303680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F9738A-B22A-4E8B-B137-AA384303680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F9738A-B22A-4E8B-B137-AA384303680D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
